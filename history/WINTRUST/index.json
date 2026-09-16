@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "WINTRUST.dll",
+  "latest": "1553879383-79420CA7BA8D140B549434332A96709A-1",
+  "builds": [
+    {
+      "key": "1553879383-79420CA7BA8D140B549434332A96709A-1",
+      "timestamp": "1553879383",
+      "pdb_guid": "79420CA7BA8D140B549434332A96709A",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1553879383-79420CA7BA8D140B549434332A96709A-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
